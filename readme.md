@@ -1,5 +1,5 @@
 # 如何使用vscode创建一个c++项目
-
+官方链接：https://code.visualstudio.com/docs/cpp/config-mingw
 ### 一、在vscode安装C/C++拓展
 
 安装 VS 代码的 C/C++ 扩展。您可以通过在“扩展”视图 （Ctrl+Shift+X） 中搜索“c++”来安装 C/C++ 扩展。
